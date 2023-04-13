@@ -1,0 +1,45 @@
+{
+  "name": "member-nicname-discord-server",
+  "version": "1.1.0",
+  "description": "Get all the nicknames from your discord server",
+  "main": "a.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "yeeeeeeeeehor",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^14.7.1"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yeeeeeeeeehor/Discord-Member-Username.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yeeeeeeeeehor/Discord-Member-Username/issues"
+  },
+  "homepage": "https://github.com/yeeeeeeeeehor/Discord-Member-Username#readme"
+}{
+  "name": "member-nicname-discord-server",
+  "version": "1.1.0",
+  "description": "Get all the nicknames from your discord server",
+  "main": "a.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "yeeeeeeeeehor",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^14.7.1"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yeeeeeeeeehor/Discord-Member-Username.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yeeeeeeeeehor/Discord-Member-Username/issues"
+  },
+  "homepage": "https://github.com/yeeeeeeeeehor/Discord-Member-Username#readme"
+}
